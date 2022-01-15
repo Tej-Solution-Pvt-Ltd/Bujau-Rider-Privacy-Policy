@@ -1,5 +1,5 @@
 # Privacy Policy
-Tej Solution Pvt. Ltd. built the Bujua Rider app as a Free app. This SERVICE is provided by Tej Solution Pvt. Ltd. at no cost and is intended for use as is.
+Tej Solution Pvt. Ltd. built the Bujau Rider app as a Free app. This SERVICE is provided by Tej Solution Pvt. Ltd. at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
