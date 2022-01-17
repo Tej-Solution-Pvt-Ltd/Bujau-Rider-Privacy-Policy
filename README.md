@@ -1,5 +1,5 @@
 # Privacy Policy
-Tej Solution Pvt. Ltd. built the Bujau Rider app as a Free app. This SERVICE is provided by Tej Solution Pvt. Ltd. at no cost and is intended for use as is.
+Tej Solution Pvt. Ltd. built the Bujau Rider and Bujau app as a Free app. This SERVICE is provided by Tej Solution Pvt. Ltd. at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -12,14 +12,14 @@ Your data is kept safe with us, but we do share your personal information with t
 We may disclose your information to service providers and other third-parties under contract who help with providing you and others our Services on our behalf or other services provided by third-parties via our Services (such as, but not limited to, fraud and spam investigations). They are required to secure the data they receive and to use the data for pre-agreed purposes only.
 
 (b) Legal and Law Enforcement: 
-We may disclose your information to law enforcement, governmental agencies, or authorized third-parties, in response to a verified request relating to terror acts, criminal investigations or alleged illegal activity or any other activity that may expose us, you, or any other Bujau Rider user to legal liability.
+We may disclose your information to law enforcement, governmental agencies, or authorized third-parties, in response to a verified request relating to terror acts, criminal investigations or alleged illegal activity or any other activity that may expose us, you, or any other Bujau Rider and Bujau user to legal liability.
 
 ## Information Collection and Use
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Personal Information such as Name, Email, Phone Number. We collect the minimum information required to achieve the purposes set out in this Policy (see below), and you have the ability to limit such collection, as specified below under “Your Choices”:
 
-(a) Registration and Account Information: When you use our various Services you voluntarily give us personal information (e.g., name, email, phone number) and you are not anonymous to us. That means your name and photo (if you choose to provide them) will be visible to other Bujau Rider users. When you install the Bujau Rider App, you’ll also be asked to allow us access your device location.
+(a) Registration and Account Information: When you use our various Services you voluntarily give us personal information (e.g., name, email, phone number) and you are not anonymous to us. That means your name and photo (if you choose to provide them) will be visible to other Bujau Rider and Bujau users. When you install the Bujau Rider and Bujau App, you’ll also be asked to allow us access your device location.
 
-(b) Activity Information: While using the Bujau Rider Services, we may collect your current location with your permission, if you don’t want to provide your current location you can disallow it going through app permission settings i.e. location.
+(b) Activity Information: While using the Bujau Rider and Bujau Services, we may collect your current location with your permission, if you don’t want to provide your current location you can disallow it going through app permission settings i.e. location.
 
 (c) Device and Location Information: We may also collect your WPS location data – you can choose whether to allow this by changing your geolocation tracking settings.
 
@@ -33,10 +33,10 @@ The app does use third party services that may collect information used to ident
 - Firebase Crashlytics: https://firebase.google.com/support/privacy/
 
 ## Information You Share Publicly
-You can control what data you share through app settings. Please refer to those third-party sites’ privacy policies and terms of use to learn more about their privacy practices, as we do not control these. At this stage, whatever you share publicly is available to the entire Bujau Rider community. If you wish to remove a certain piece of content you have shared in the past, you can do that by deleting that content. It will be removed from our services but may remain on local devices of some users (assuming they have chosen to save it).
+You can control what data you share through app settings. Please refer to those third-party sites’ privacy policies and terms of use to learn more about their privacy practices, as we do not control these. At this stage, whatever you share publicly is available to the entire Bujau Rider and Bujau community. If you wish to remove a certain piece of content you have shared in the past, you can do that by deleting that content. It will be removed from our services but may remain on local devices of some users (assuming they have chosen to save it).
 
 ## Your Choices
-We want you to have control over how you communicate. You can also make additional choices on your phone’s settings by changing our app’s permissions such as location and more. Every now and then, Bujau Rider may send you updates about administration and operation of the Service (for example, policy changes, technical issues, etc.). We may also send notifications about offerings by Bujau Rider or third-parties, that we think may be of interest to you. If you do not wish to receive such notifications, you may adjust your system settings to decline them.
+We want you to have control over how you communicate. You can also make additional choices on your phone’s settings by changing our app’s permissions such as location and more. Every now and then, Bujau Rider and Bujau may send you updates about administration and operation of the Service (for example, policy changes, technical issues, etc.). We may also send notifications about offerings by Bujau Rider and Bujau or third-parties, that we think may be of interest to you. If you do not wish to receive such notifications, you may adjust your system settings to decline them.
 
 ## Log Data
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
@@ -73,7 +73,7 @@ This policy is effective as of 2022-01-15
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at bujaunepal@gmail.com.
 
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Bujau Rider unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Bujau Rider and Bujau unless otherwise defined in this Privacy Policy.
 
 # Terms & Conditions
 
@@ -81,7 +81,7 @@ By downloading or using the app, these terms will automatically apply to you –
 
 Tej Solution Pvt. Ltd. is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
 
-The Bujau Rider app stores and processes personal data that you have provided to us, in order to provide our Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Bujau Rider app won’t work properly or at all.
+The Bujau Rider and Bujau app stores and processes personal data that you have provided to us, in order to provide our Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Bujau Rider and Bujau app won’t work properly or at all.
 
 The app does use third party services that declare their own Terms and Conditions.
 
